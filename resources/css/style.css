@@ -1,0 +1,24 @@
+/* resources/css/style.css */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.card {
+    width: 100%;
+    max-width: 400px;
+}
+
+.card-header {
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+}
+
+.card-body {
+    padding: 20px;
+}
